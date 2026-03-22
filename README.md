@@ -8,8 +8,10 @@ The project started as a churn prediction model and evolved into something more 
 
 ## See it live
 
-📊 [Tableau Dashboard](https://public.tableau.com/views/ChurnLens/ChurnLens)  
-🤖 [AI Analyst Chatbot](https://churnlensapp.vercel.app/) 
+📊 [Tableau Dashboard](https://public.tableau.com/views/ChurnLens/ChurnLens)
+
+🤖 [AI Analyst Chatbot](https://churnlensapp.vercel.app/)
+
 📓 [Analysis Notebook](./ChurnLens_Analysis.ipynb)
 
 ---
