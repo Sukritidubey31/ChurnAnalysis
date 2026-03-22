@@ -104,4 +104,4 @@ BigQuery · Python · XGBoost · Supabase · Tableau · Next.js · TypeScript ·
 
 **Sukriti Dubey**  
 MEng Engineering Management, Cornell University  
-[LinkedIn](https://linkedin.com/in/your-profile) · [Tableau Public](https://public.tableau.com/app/profile/your-profile)
+[LinkedIn](https://www.linkedin.com/in/sukriti-dubey)
